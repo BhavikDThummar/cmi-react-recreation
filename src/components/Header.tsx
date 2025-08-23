@@ -63,7 +63,7 @@ const Header = () => {
                   </svg>
                 </a>
               </div>
-              <a href="#" className="text-white hover:text-cmk-orange transition-colors font-medium">
+              <a href="/life-at-cmk" className="text-white hover:text-cmk-orange transition-colors font-medium">
                 Life at CMK
               </a>
               <a href="#" className="text-white hover:text-cmk-orange transition-colors font-medium">
