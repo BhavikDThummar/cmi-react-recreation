@@ -49,10 +49,10 @@ const Header = () => {
 
             {/* Navigation */}
             <nav className="hidden md:flex items-center space-x-8">
-              <a href="#" className="text-white hover:text-cmk-orange transition-colors font-medium">
+              <a href="/" className="text-white hover:text-cmk-orange transition-colors font-medium">
                 Home
               </a>
-              <a href="#" className="text-white hover:text-cmk-orange transition-colors font-medium">
+              <a href="/about" className="text-white hover:text-cmk-orange transition-colors font-medium">
                 About Us
               </a>
               <div className="relative group">
